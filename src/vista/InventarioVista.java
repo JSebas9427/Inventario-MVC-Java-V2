@@ -10,6 +10,7 @@ public class InventarioVista {
 
     public int mostrarMenu() {
         System.out.println("\n--- MENÚ DE INVENTARIO ---");
+        System.out.println("la caucanita");
         System.out.println("1. Agregar producto");
         System.out.println("2. Buscar producto por SKU");
         System.out.println("3. Mostrar todos los productos");
